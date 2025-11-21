@@ -1,3 +1,5 @@
+import 'package:dart_week5/anonymouse_function.dart';
+import 'package:dart_week5/arrow_function.dart';
 import 'package:dart_week5/function.call.dart';
 import 'package:dart_week5/function_return.dart';
 import 'package:dart_week5/optional_default.dart';
@@ -9,5 +11,7 @@ void main(){
   //callFunction();
   //callprint();
   //callinfo();
-  calldefault();
+  //calldefault();
+  //callsay();
+  fruitInfo();
 }
